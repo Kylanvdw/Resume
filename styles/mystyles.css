@@ -1,0 +1,43 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#name{
+font-style: italic;
+color: whitesmoke;
+}
+#byu{
+    color: blue;
+    text-decoration: underline;
+}
+h2{
+    color: grey;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h5{
+    text-align: center;
+}
+#anchor{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+}
+#star{
+    text-align: center;
+    color: gold;
+}
+
+#Youtube{
+    text-align: center;
+}
+
+#dirtbike{
+    color: blue;
+    text-decoration: underline;
+}
